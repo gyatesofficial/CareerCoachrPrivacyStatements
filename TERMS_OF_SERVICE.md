@@ -221,7 +221,7 @@ We shall not be liable for any failure to perform due to circumstances beyond ou
 ## 16. Apple-Specific Terms
 
 You acknowledge that:
-- These Terms are between you and DataGuy Studios, not Apple
+- These Terms are between you and Data Guy LLC, not Apple
 - Apple has no obligation to provide maintenance or support for the App
 - Apple is not responsible for any claims related to the App
 - Apple is a third-party beneficiary of these Terms
@@ -233,9 +233,9 @@ If you have questions about these Terms, please contact us at:
 **Email**: legal@careerbuddy.app
 
 **Mailing Address**:
-DataGuy Studios
-[Your Address]
-[City, State ZIP]
+Data Guy LLC
+418 Broadway #STE R
+Albany, NY, 12207, USA
 
 ---
 
